@@ -1,0 +1,5 @@
+pytest==8.2.2
+opencv-python==4.7.0.72
+yt-dlp==2024.8.28
+pytest-html==3.2.0
+secure-smtplib==0.1.1
