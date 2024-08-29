@@ -63,4 +63,4 @@ if __name__ == "__main__":
     report_path = generate_report()
 
     # Send the report via email
-    send_email(report_path, "saskens727@gmail.com", "Sasken@123", "prasadputhadi@gmail.com")
+    send_email(report_path, sender_email, password, receiver_email)
